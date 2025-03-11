@@ -7,19 +7,11 @@ This is a simple number guessing game written in C. The program generates a rand
 Compilation and Execution
 
 Compilation
-
 Use a C compiler like gcc to compile the program:
-
 gcc guessing_game.c -o guessing_game
 
 Execution
-
-Run the compiled program:
-
-./guessing_game
-
+Run the compiled program: ./guessing_game
 Code Structure
-
 generate_Random_number(int *random_number): Generates a random number between 1 and 100.
-
 main(): Controls the game logic and user input.
