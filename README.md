@@ -15,3 +15,4 @@ Run the compiled program: ./guessing_game
 Code Structure
 generate_Random_number(int *random_number): Generates a random number between 1 and 100.
 main(): Controls the game logic and user input.
+https://github.com/rupjit23/Guessing_a_Random_Number/blob/3585022396c11ac22438f5ed0dac2caeeecd5996/Screenshot%202025-03-11%20220404.png
